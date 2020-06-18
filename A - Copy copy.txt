@@ -1,2 +1,0 @@
-gina-fetch.txt
-from mac
