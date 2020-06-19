@@ -1,2 +1,2 @@
 gina-fetch.txt
-from windows
+sending changes from Mac
