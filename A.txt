@@ -1,2 +1,2 @@
 gina-fetch.txt
-Hello today is thursday
+Hello today is thursday, sending changes from Mac
