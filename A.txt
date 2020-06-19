@@ -1,2 +1,2 @@
 gina-fetch.txt
-from windows
+Hello today is thursday
